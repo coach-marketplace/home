@@ -18,18 +18,16 @@ Useful links:
 
 ### Reverse geoloc
 
-We're using Nominatim to get the coordinates from an address
-
-useful link: [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/)
+We're using [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/) to get the coordinates from an address
 
 ### Autocomplete address search
 
 TODO. Here are some ideas to (re)use for our autocomplete feature:
 
-https://github.com/CanalTP/mimirsbrunn
-https://photon.komoot.de/ => /!\ limitations for extensive usage. + CHeck if the Apache license is not contaminating.
-https://pelias.io/
-https://github.com/klokantech/osmnames-sphinxsearch
-https://github.com/addok/addok
+- https://github.com/CanalTP/mimirsbrunn
+- https://photon.komoot.de/ => /!\ limitations for extensive usage. + CHeck if the Apache license is not contaminating.
+- https://pelias.io/
+- https://github.com/klokantech/osmnames-sphinxsearch
+- https://github.com/addok/addok
 
 ==> Check licenses before making a definitive choice.
