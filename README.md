@@ -1,6 +1,5 @@
----
-description: Test description
----
+# Fitigaï
 
-# Home
+Welcome to Fitigaï project, here is the central documentation of the project.
 
+[API Documentation](/api)
