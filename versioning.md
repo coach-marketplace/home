@@ -10,4 +10,30 @@ The `master` branch is the principal one, it's directly linked to the server on 
 
 The most important branch is `staging`, is the main development branch. We always branch from it to develop a new feature or to
 
-![branching model image](https://lh3.googleusercontent.com/proxy/5Plb2uBO8GnXefo_7wAdMSM8VNv27KiHfcYV8abryJwDAYTzTQZa23q2m-P9AiYrbMdEZaqDbG1Q4S4QhVbq1dIwhGRt_yTKOHfdfX6rWnREQQC4WVI)
+![branching model image](https://user-images.githubusercontent.com/39580007/89981141-a6711500-dc73-11ea-9711-3732d4565232.png)
+
+## Naming conventions
+
+### Master
+
+Production version
+
+### Staging 
+
+Staging version
+
+### feature/*
+
+Any new feature
+
+### fix/*
+
+Any bug fixing
+
+### docs/*
+
+Any documentation changes
+
+### imp/*
+
+ANy kind of improvment that you can't place in another naming
