@@ -44,3 +44,18 @@ If you need to develop anything, be sure to always branch from `staging` (Don't 
 
 - Once your branch is created locally, and you did any change on it, you can already open a `draft` pull request to the target branch (could be staging or any other sub-branch, but never master) to get review during the development process.
 - Be sure to use correct label on your Pull Request and add the [ready](https://github.com/fitigai/api/labels/%F0%9F%99%8C%20ready%20%F0%9F%99%8C) label when you think the branch is ready to be merged.
+
+## Commit message
+
+Be sure to always be clear in your commit messages:
+
+DO:
+
+- Write the first line of your commit with a short description
+- Be clear: `Add sign-up button on the home-page`, `Redesign the navbar\n\nAdding stickyness and better color contrast, now the top bar is more visible and user understand better how to navigate`
+- After a white line, add a longer description is it's needed
+
+DON'T:
+
+- Commit useless comments or `console.log()`
+- Use unclear message: `Styling`, `Add feature`
